@@ -5,3 +5,6 @@
 [submodule "dream"]
 	path = dream
 	url = https://github.com/kevincarson/dream
+[submodule "netpanel"]
+	path = netpanel
+	url = https://github.com/kevincarson/netpanel
